@@ -297,8 +297,5 @@ For more information, see the following:
     
 - [Upgrade Statistics Manager for Skype for Business Server](upgrade.md)
     
-- [Troubleshoot Statistics Manager for Skype for Business Server](troubleshoot.md)
-    
-- [Skype for Business Server Statistics Manager blog](https://blogs.technet.microsoft.com/skypestatsman/)
-    
+- [Troubleshoot Statistics Manager for Skype for Business Server](troubleshoot.md)    
 
